@@ -64,8 +64,8 @@
 				top:0;
 				margin:0 auto;
 			}
-			html>body .cont_anima_img img{
-				left:17%;
+			.cont_anima_img img{
+				left:17%\9
 			}
 			.cont_anima_img #bg_01{
 				z-index:1;
